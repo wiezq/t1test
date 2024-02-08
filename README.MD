@@ -10,7 +10,7 @@
 
 ## Запуск приложения
 
-1. Установите Java 8 и Maven.
+1. Установите Java 8+ и Maven.
 2. Клонируйте репозиторий с GitHub. 
 <br>`git clone https://github.com/wiezq/t1test.git`
 3. Перейдите в каталог проекта и выполните команду <br>`gradle bootRun`.
